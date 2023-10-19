@@ -57,4 +57,5 @@ This project demonstrated the power of data-driven decision-making and the impor
 
 By implementing the lessons learned and further enhancing the model, the Nairobi Bus Ticket Sales Prediction Project has the potential to provide even more valuable insights and drive improvements in the bus service operations.
 
-*Note: The actual figures for MAE and R2 should be provided in this section.*
+Mean Absolute Error (Train): 1.1939
+Mean Absolute Error (Test): 2.9065
